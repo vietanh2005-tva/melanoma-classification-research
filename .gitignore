@@ -1,0 +1,34 @@
+# Môi trường và cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Biến môi trường và thông tin xác thực
+.env
+kaggle.json
+*.pem
+*.key
+
+# Dữ liệu và mô hình dung lượng lớn
+data/
+dataset/
+models/
+checkpoints/
+outputs/
+*.h5
+*.keras
+*.ckpt
+*.tfrecord
+*.zip
+*.tar
+*.gz
+
+# Hệ điều hành / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+

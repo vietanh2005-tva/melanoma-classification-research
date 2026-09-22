@@ -1,0 +1,28 @@
+{
+  "source": "saved_output_from_original_research_notebook",
+  "validation_threshold": 0.5,
+  "roc_auc": 0.8019271948608138,
+  "pr_auc": 0.08966826041924973,
+  "accuracy": 0.6404,
+  "sensitivity": 0.7951,
+  "specificity": 0.6375,
+  "malignant_precision": 0.0393,
+  "malignant_f1": 0.0749,
+  "confusion_matrix": {
+    "tn": 4168,
+    "fp": 2370,
+    "fn": 25,
+    "tp": 97
+  },
+  "calibration": {
+    "temperature": 1.7135342359542847,
+    "brier_before": 0.2251032591,
+    "brier_after": 0.2135644257,
+    "ece_before": 0.385005,
+    "ece_after": 0.411912
+  },
+  "notes": [
+    "Brier score improved after temperature scaling, while ECE worsened.",
+    "MC Dropout uncertainty outputs were not available in the saved run."
+  ]
+}
