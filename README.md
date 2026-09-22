@@ -6,10 +6,9 @@ Repo này trình bày quy trình nghiên cứu phân loại **melanoma (u hắc 
 
 ## Trạng thái công trình
 
-Bản thảo **“An Uncertainty-Aware and Calibration-Driven Framework for Robust Melanoma Classification in Dermoscopic Imaging”** đã nhận quyết định chấp nhận trình bày tại **2026 IEEE International Symposium on Medical Measurements and Applications (MeMeA 2026)** sau vòng phản biện và chỉnh sửa nhỏ.
+Bản thảo **“An Uncertainty-Aware and Calibration-Driven Framework for Robust Melanoma Classification in Dermoscopic Imaging”** đã nhận quyết định chấp nhận trình bày tại **2026 IEEE International Symposium on Medical Measurements and Applications (MeMeA 2026)** 
 
-Do lịch trình của nhóm, nhóm chủ động không hoàn tất đăng ký hội nghị. Vì vậy, công trình **không được trình bày, không xuất bản trong kỷ yếu/IEEE Xplore và không có DOI**. Thông tin này được ghi rõ để tránh hiểu nhầm giữa “được chấp nhận” và “đã xuất bản”.
-
+Do lịch trình của nhóm, nhóm chủ động không hoàn tất đăng ký hội nghị. Vì vậy, công trình **không được trình bày, không xuất bản trong kỷ yếu/IEEE Xplore và không có DOI**.
 ## Bài toán và dữ liệu
 
 - Dữ liệu: [SIIM-ISIC Melanoma Classification 2020](https://www.kaggle.com/competitions/siim-isic-melanoma-classification)
@@ -147,6 +146,6 @@ Trên Kaggle, notebook tự dùng đường dẫn mặc định của cuộc thi
 
 - Trương Việt Anh
 - Nguyễn Mạnh Tuấn
-- Vũ Đình Thu
+- Vũ Đình Thư 
 - Đặng Văn Hiếu
 
